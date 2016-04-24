@@ -1,4 +1,3 @@
-# highChart
 ## 实验室社保业务HighChart展示
 ## 工作内容
 ### 1.利用hightchart展示图标
