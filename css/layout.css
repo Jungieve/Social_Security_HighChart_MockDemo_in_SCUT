@@ -139,11 +139,11 @@ background: url(../images/icn_logout.png) center no-repeat;
 
 /* header*/
 section#secondary_bar .breadcrumbs_container {
-	 float: left;
-	 width: 82%;
-	 background: url(../images/secondary_bar_shadow.png) no-repeat left top;
-	 height: 38px;
- }
+float: left;
+width: 82%;
+background: url(../images/secondary_bar_shadow.png) no-repeat left top;
+height: 38px;
+}
 
 article.breadcrumbs {
 float: left;
@@ -198,7 +198,7 @@ aside#sidebar {
 width: 18%;
 background: #E0E0E3 url(../images/sidebar.png) repeat;
 float: left;
-min-height: 500px;
+min-height: 1000px;
 /*margin-top: -4px;*/
 }
 
